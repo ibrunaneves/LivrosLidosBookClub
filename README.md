@@ -7,6 +7,15 @@
 
 ---
 
+## 📖 Leituras de 2026
+
+| Mês | Livro | Autor |
+|:----|:------|:------|
+| *Fevereiro* | **O namorado** | Freida McFadden |
+| *Janeiro* | **Coraline** | Neil Gaiman |
+
+---
+
 ## 📖 Leituras de 2025
 
 | Mês | Livro | Autor |
@@ -25,7 +34,7 @@
 
 ---
 
-## 🕯️ Leituras de 2024
+## 📖 Leituras de 2024
 
 | Mês | Livro | Autor |
 |:----|:------|:------|
