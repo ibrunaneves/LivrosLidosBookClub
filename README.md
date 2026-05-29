@@ -11,6 +11,11 @@
 
 | Mês | Livro | Autor |
 |:----|:------|:------|
+| *Julho* | **O Silêncio da Casa Fria** | Laura Purcell |
+| *Junho* | **Assombrações do Recife Velho** | Gilberto Freyre |
+| *Maio* | **Um Verão Italiano** | Rebecca Serle |
+| *Abril* | **Dom Casmurro** | Machado de Asssis |
+| *Março* | **Mulher em Queda** | Colleen Hoover |
 | *Fevereiro* | **O namorado** | Freida McFadden |
 | *Janeiro* | **Coraline** | Neil Gaiman |
 
